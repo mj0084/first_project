@@ -15,4 +15,4 @@ spec:
          memory: "100Mi"
      command: ["stress"]
      args: ["--cpu", "2"] 
-     #args: ["--vm","1","--vm-bytes", "250M", "--vm-hang", "1"] 
+     #args: ["--vm","1","--vm-bytes", "250M", "--vm-hang", "1"]
